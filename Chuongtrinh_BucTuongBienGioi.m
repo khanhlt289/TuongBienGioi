@@ -1,15 +1,13 @@
 clear all; clc;
 % >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-% Muc dich: Bao cao Seminar Khoa hoc tai truong Dai hoc KHTN - DHQGHN va
-% thay loi cam on den nhung nguoi nguoi Cha, nguoi Thay dang kinh cua toi.
+% Muc dich: Bao cao Seminar Khoa hoc tai truong Dai hoc KHTN - DHQGHN
 
 % De tai: Tinh toan noi luc ket cau tuong rong ruot theo phuong phap PTHH
 % voi tai trong gio tinh, giai he phuong trinh dai so tuyen tinh A * x = b
 % bang xu ly tien dieu kien PCG theo phan tich ma tran duong cheo kk
 
 % Nguoi thuc hien: Luu Truong Khanh
-% Huong dan khoa hoc phan Ket cau: GS. TSKH. Vo Nhu Cau
-% Huong dan khoa hoc phan Dai so tuyen tinh: PGS. TS. Nguyen Trung Hieu
+% Huong dan khoa hoc phan Dai so tuyen tinh: TS. Nguyen Trung Hieu
 
 format long % Dinh dang so
 nel=84;   % So luong phan tu cua he
